@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture"];
+var things = ["music", "Art", "Dance", "Theater", "Math", "Architecture"];
 var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
@@ -44,8 +44,9 @@ var is = ["is", "is not", "is like", "includes", "excludes", "is beyond",
 	  "extends", "encodes", "represents", "signifies", "consists of"];
 
 for (var i = 0; i < is.length; i = i + 1){
-    q.innerHTML += "Code " + is[i] + " language. <br>";
-    q.innerHTML += "Language " + is[i] + " code. <br>";
+ <h5> "You miss 100% of the shots you don't take"</h5>
+      <h3>- Wayne Gretzky </h3>
+      <h5> -Michael Scott </h5>
 }
 
 q.innerHTML += "\u2014 For Loop";
