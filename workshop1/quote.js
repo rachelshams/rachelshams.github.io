@@ -49,4 +49,3 @@ for (var i = 0; i < is.length; i = i + 1){
       <h5> -Michael Scott </h5>
 }
 
-q.innerHTML += "\u2014 For Loop";
